@@ -126,9 +126,61 @@ Visit in your browser at:
 You can type text, upload an image or audio file and see predictions.
 
 🧩 Issues
-If you find any bug, feel free to open an issue here:
-👉 GitHub Issues
+If you encounter a bug, unexpected behavior, or have suggestions for improvements, feel free to open an issue here:
+👉 GitHub Issues [https://github.com/AaYuSh11233/Sentiment-analysis/issues]
+
+When reporting an issue, please include:
+
+✅ A clear description of the problem
+
+✅ Steps to reproduce it
+
+✅ Expected vs actual behavior
+
+✅ Screenshots or logs, if applicable
+
+✅ Details about your environment (OS, Python version, etc.)
+
+Your feedback helps make this project better for everyone. Thank you! 💡
 
 🤝 Contribution
-Contributions are welcome!
-Fork the repo → Create a feature branch → Commit → Pull Request.
+Contributions are welcome! Whether it’s a bug fix, feature suggestion, documentation improvement, or new idea — we’d love to see it.
+
+🚀 To contribute:
+Fork the repository:
+👉 Fork this repo
+
+Clone your fork:
+
+```
+git clone https://github.com/your-username/Sentiment-analysis.git
+```
+
+Create a feature branch:
+
+```
+git checkout -b feature/your-feature-name
+```
+
+Make your changes & commit:
+
+```
+git commit -m "Add: your clear and concise message"
+Push your branch:
+```
+
+```
+git push origin feature/your-feature-name
+Open a Pull Request against the main branch of this repository.
+```
+
+We recommend following the Conventional Commits [https://www.conventionalcommits.org/] standard for commit messages when possible.
+
+🌟 Tips for contributors:
+📄 Follow the existing code style and directory structure.
+
+🧪 Add tests and update documentation for new features.
+
+❤️ Be kind, respectful, and constructive during code reviews and discussions.
+
+Thank you for helping improve this project! ✨
