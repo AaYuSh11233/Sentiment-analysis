@@ -31,6 +31,8 @@ You can upload or type your input and receive the predicted sentiment in real ti
 ---
 
 ## 📁 Project Structure
+
+```
 sentiment-analysis/
 ├── app.py # Streamlit web app
 ├── data/
@@ -49,7 +51,8 @@ sentiment-analysis/
 ├── scripts/ # helper scripts (e.g., CSV creation, data cleaning)
 ├── src/ # inference & training modules
 ├── requirements.txt # dependencies
-└── README.md 
+└── README.md # this file
+```
 
 ---
 
