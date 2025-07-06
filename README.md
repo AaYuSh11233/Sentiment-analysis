@@ -93,9 +93,9 @@ These notebooks guide you through:
 📊 How to Collect Data
 ✅ Text datasets:
 
-IMDB: https://ai.stanford.edu/~amaas/data/sentiment/
+[IMDB](https://ai.stanford.edu/~amaas/data/sentiment/)
 
-Sentiment140: http://help.sentiment140.com/for-students
+[Sentiment140](http://help.sentiment140.com/for-students)
 
 ✅ Image & audio:
 
@@ -127,7 +127,7 @@ You can type text, upload an image or audio file and see predictions.
 
 🧩 Issues
 If you encounter a bug, unexpected behavior, or have suggestions for improvements, feel free to open an issue here:
-👉 GitHub Issues [https://github.com/AaYuSh11233/Sentiment-analysis/issues]
+👉 [GitHub Issues](https://github.com/AaYuSh11233/Sentiment-analysis/issues)
 
 When reporting an issue, please include:
 
@@ -174,7 +174,7 @@ git push origin feature/your-feature-name
 Open a Pull Request against the main branch of this repository.
 ```
 
-We recommend following the Conventional Commits [https://www.conventionalcommits.org/] standard for commit messages when possible.
+We recommend following the [Conventional Commits](https://www.conventionalcommits.org/) standard for commit messages when possible.
 
 🌟 Tips for contributors:
 📄 Follow the existing code style and directory structure.
